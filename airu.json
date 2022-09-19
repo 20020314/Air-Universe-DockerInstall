@@ -3,11 +3,11 @@
     "log_level": "info"
   },
   "panel": {
-    "type": "sspanel",
-    "url": "https://SSPanel.address",
-    "key": "SSPanel-Key",
-    "node_ids": [1, 2],
-    "nodes_type": ["vmess", "ss"]
+    "type": "v2board",
+    "url": "https://v2.linmi.site",
+    "key": "c93169f1eb9be7246f990690b5e66b2d",
+    "node_ids": [18],
+    "nodes_type": ["vmess"]
   },
   "proxy": {
     "type": "xray",
